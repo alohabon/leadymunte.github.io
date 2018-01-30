@@ -1,0 +1,18 @@
+html = itu badannya, yang menampilkan interface
+css : untuk lebih rapi
+js : untuk lebih bisa aktif, kaya warna warni, gerak sana gerak sini
+php : untuk otaknya, menjalankan suatu program\
+
+website sekarang harus dinamis 
+untuk medesign harus 
+	- interaktif supaya ga bosanin
+	- konsisten supaya jangan membingungkan user
+	
+thead untuk mengetahui body pada sebuah bagan
+tr : tabel row
+ 
+order lish untuk yang terurut
+unorder lish lebih ke point point yang tanpa ada harus angkanya 
+
+(ctrl+u) untuk melihat bagaimana kodingannya
+ 

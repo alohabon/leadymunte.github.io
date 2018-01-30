@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> 
+		halaman pertama di sini
+	</title>
+	<link rel="stylesheet" type= "text/css" href = "style.css"></link>
+</head>
+<body> 
+	<h1> SELAMAT DATANG</h1>
+	<table border 2>
+		<thead>
+			<tr>
+				<td>Nama</td>
+				<td>Alamat</td>
+				<td>TTL</td>
+				<td>Kelas</td>
+			</tr>
+			<tr>
+				<td>LEA</td>
+				<td>BBC 2 no.54b</td>
+				<td>Bontang, 7-10-97</td>
+				<td>IF-40-09</td>
+			</tr>
+		</thead>
+	</table>
+	
+	<h2> hobi saya:  </h2>
+	
+	<ol>
+		<li> makan</li>
+		<li> membaca</li>
+		<li> Bersepeda</li>
+		<li> tidur</li>
+	</ol>
+	<ul>
+		<li> makan</li>
+		<li> membaca</li>
+		<li> Bersepeda</li>
+		<li> tidur</li>
+	</ul>
+	
+	<h3> FORMULIR</h3>
+	<form action="leaBlajar.php" method="" >
+		teks : <input name = "username" type = "text" maxlength="50"><br>
+		angka : <input name = "umur" type = "number" max = "10" min="1"><br>
+		password : <input type = "password" name ="password"><br>
+		email : <input type ="email" name ="email"><br>
+		tanggal : <input type="date" name ="password"><br>
+		
+		<br> jenis Kelamin <br>
+		<input type = "radio" name ="gender" value = "male">male</br>
+		<input type = "radio" name ="gender" value = "female">female</br>
+		<input type = "radio" name ="gender" value = "other">other</br>
+		
+		pilih mobil :
+		<select name ="cars">
+			<option value="volvo">volvo</option>
+			<option value="honda">honda</option>
+			<option value="suzuki">suzuki</option>
+		</select> <br>
+		
+		pesan: 
+		<textarea name ="message" rows="10" cols ="30">
+			the cats was playing in the garden with my brother.
+		</textarea></br>
+		
+		<button type = "submit">kirim</button>
+		<button type = "submit">reset</button>
+	</form>
+</body>
+<style>
+
+</style>
+</head>
+</html>
