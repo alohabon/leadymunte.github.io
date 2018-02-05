@@ -1,0 +1,35 @@
+
+body{
+	font-family: 'Handlee', cursive;
+	font-size: 12pt;
+	background-color: powderblue;
+	padding: 10px;
+	margin:0; 
+}
+.home{
+	background-color: powderblue;
+}
+table{
+	background-color: #efefef;
+}	
+
+h1{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	width: 100%;
+	border: 3px dashed #554ccd;/*dashed sebagai border style*/
+	padding: 10px;
+	background-color: mediumseagreen;
+}
+
+p.two{ 
+	width: 1050px;
+	margin-top: 10px;
+}
+
+footer{
+	background-color: MediumSeaGreen;
+	border: 3px dashed #554ccd;
+}
