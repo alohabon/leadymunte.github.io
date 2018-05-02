@@ -1,0 +1,120 @@
+.container{
+	margin-top: 30px;
+	
+}
+body {
+	background-image: url(a.jpg);
+    background-size: cover;
+    opacity: 0.8;
+}
+.awal{
+	margin-top: 5px;
+	font-size: 36px;
+	line-height: 42px;
+	padding-bottom: 10px;
+	padding-top: 20px;
+	color: white;
+}
+.tengah{
+	background-color: none;
+	display: inline-block;
+	border-radius: 5px;
+	margin: 20px auto;
+    width: 400px;
+	color: white;
+}
+.form-group{
+	margin-left: 6%;			
+	margin-right: 6%;
+	background: transparent; 
+}	
+.form-control{
+	border: 2px solid white;
+	margin-bottom: 25px;
+	background: transparent;
+	color: #FFF;
+	display: block;
+}
+.btn{
+	border-radius: 20px;
+	width: 100%;
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 2px solid white;
+    cursor:pointer;
+    overflow: hidden;
+    color: white;
+}
+a{
+	color: white;
+	font-size: bold;
+	font-family: Roboto;
+	text-decoration: none;
+}
+.gateng{
+	align-items: stretch;
+    border: 0 solid #000;
+    display: flex;
+    width: 300px;
+}
+.garis{
+	flex-grow: 1;
+	-webkit-box-flex: 1;
+	flex-shrink: 1;
+    background-color: #c7c7c7;
+    height: 1px;
+    position: relative;
+    top: .45em;
+}
+.spas{
+	margin: 0 18px;
+	font-family: roboto;
+	font-style: Bold;
+	font-size: 16px;
+	line-height: 15px;
+}
+.transparent{
+	 background:rgba(2, 2, 2, 0.5);
+	 width: 20%;
+	 height: 150px;
+	 padding: 10px;
+	 margin: 130px auto;
+	 color:#fff;
+}
+.ft{
+	margin-top: 30px;
+}
+.ft2{
+	margin-top: -10px;
+	font-size: 12px;
+}
+.ft1{
+	color: white;
+}
+.himg{
+	background-color: #6c757d;
+	display: block;
+	background-size: cover;
+	height: 50px; 	
+}
+.logo{
+	height: 30px;
+	width: 33px;
+	margin-left: 30px;
+	margin-bottom: 40px;
+}
+
+.i{
+	margin-top: 23px;
+	background-color: #6c757d;	
+	display: block;
+	background-size: cover;
+	height: 1px;
+	padding-bottom: 53px;
+}
+.foot{
+	padding-top: 12px;
+	margin-top: 18px;
+	color: white;
+	font-size: 14px;
+}
