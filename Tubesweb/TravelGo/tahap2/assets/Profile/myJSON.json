@@ -1,0 +1,36 @@
+{
+	"booking":[
+		{
+			"id" 		: "1",
+			"maskapai"	: "Lion Air",
+			"asal"		: "Indonesia",
+			"tujuan"	: "Hawai",
+			"jadwal"	: "03.00 20-02-2011",
+			"pembayaran": "paypal"
+		},
+		{
+			"id" 		: "2",
+			"maskapai"	: "Lion Air",
+			"asal"		: "Hawai",
+			"tujuan"	: "Indonesia",
+			"jadwal"	: "14.00 03-03-2011",
+			"pembayaran": "paypal"
+		},
+		{
+			"id" 		: "3",
+			"maskapai"	: "Lion Air",
+			"asal"		: "Indonesia",
+			"tujuan"	: "Hawai",
+			"jadwal"	: "06.00 24-07-2011",
+			"pembayaran": "paypal"
+		},
+		{
+			"id" 		: "4",
+			"maskapai"	: "Lion Air",
+			"asal"		: "Singapore",
+			"tujuan"	: "Thailand",
+			"jadwal"	: "15.00 20-11-2012",
+			"pembayaran": "paypal"
+		}
+	]
+}

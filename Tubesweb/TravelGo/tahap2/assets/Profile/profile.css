@@ -1,0 +1,201 @@
+a {
+	color: white;
+}
+body {
+	background-color: #edeff2;
+}
+.tfoto{
+	width: 300px;
+	height:  210px;
+	margin-top: 100px;
+	background-color: white;
+}
+.tprofile{
+	width: 700px;
+	height: 630px;
+	margin-top: -550px;
+	margin-left: 380px;
+	background-color: white;
+}
+.tambahan{
+	width: 800px;
+}
+.ti{
+	width: 300px;
+	height: 300px;
+	margin-top: 20px;
+}
+.foto{
+	height: 120px;
+	width: 140px;
+	margin-top: 30px;
+}
+.nfoto{
+	font-size: 17px;
+	margin-top: 5px;
+}
+.efoto{
+	font-size: 20px;
+
+}
+.eprofil{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.kiri{
+	width: 350px;
+}
+.he{
+	font-size: 20px;	
+}
+.form-control{
+	width: 650px;
+	height: 40px;
+}
+.note{
+	line-height: 1.5;
+    font-weight: 300;
+    margin-top: 7px;
+    font-size: 12px;
+    color: #bbbaba;
+}
+.btnC{
+	border-radius: 30px;
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    cursor: pointer;
+    overflow: hidden;
+    width: 150px;
+	height: 40px;
+}
+.btn{
+	margin-top: 20px;
+}
+.btnS{
+	border-radius: 20px;
+	background-color: #6c757d;
+	background-repeat: no-repeat;
+	border: none;
+	cursor: pointer;
+	color: white;
+	width: 150px;
+	height: 40px;
+}
+.btnRe{
+	border-radius: 30px;
+	background-color: #6c757d;
+	background-repeat: no-repeat;
+	border: none;
+	cursor: pointer;
+	color: white;
+	width: 150px;
+	height: 40px;
+}
+.btnR{
+	border-radius: 20px;
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    cursor: pointer;
+    overflow: hidden;
+    width: 150px;
+	height: 40px;
+}
+.logo{
+	width: 56px;
+	height: 30px;
+}
+.Profile{
+	width: 32px;
+	height: 25px;
+}
+.dr{
+	padding: 20px 10px 5px 5px; 
+	width: 200px;
+}
+.logo-footer{
+	width: 100%;
+	height: 300px;
+}
+.logo-1{
+	width: 200px;
+	height: 220px;
+	margin-top: 80px;
+	margin-bottom: 40px;
+}
+.order{
+	list-style-type: none;
+	margin-top: 80px;
+}
+.line-1{
+	width: 1280px;
+	height: 1px;
+	background: white;
+	margin-top: 22px;
+	margin-bottom: 20px;
+}
+.fot{
+	color: white;
+	padding-bottom: 20px;
+}
+.pay{
+	margin-left: 20px;
+}
+ul li a {
+	color: white;
+	font-size: 20px;
+	font-weight: 500px;
+	font-family: sans-serif;
+	font-style: Roboto;
+	padding-bottom: 10px;
+}
+.padf{
+	margin-top: 50px;
+}
+div{
+	display: block;
+}
+.padfot{
+	margin-top: 40px;
+}
+.t{
+	font-size: 16px;
+}
+.tab {
+    display: block;
+    background-color: white;
+    color: black;
+    padding: 22px 60px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 18px;
+}
+.ti button:hover {
+    background-color: #ddd;
+}
+
+.ti button.active {
+    background-color: #6c757d;
+}
+.mybooking{
+	border-collapse: collapse;
+	width: 100%;
+}
+.thh{
+	border: 1px solid black;
+	text-align: left;
+	padding: 8px;
+}
+.jud{
+	padding-top: 50px;
+	margin-bottom: 50px;
+}
+.tt{
+	background-color: #dddddd;
+}
