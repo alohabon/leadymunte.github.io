@@ -1,0 +1,96 @@
+ul li a {
+	color: white;
+	font-size: 20px;
+	font-weight: 500px;
+	font-family: sans-serif;
+	font-style: Roboto;
+	padding-bottom: 10px;
+	text-decoration: none;
+}
+.logo{
+	width: 56px;
+	height: 30px;
+}
+
+.carousel-inner img {
+      width: 100%;
+      height: 470px;
+}
+.gambar{
+	width: 480px;
+	height: 220px;
+}
+h1{
+	font-size: 57px;
+}
+p{
+	font-size: 25px;
+}
+.lupa{
+	text-decoration: none;
+	font-size: 12px;
+}
+div{
+	display: block;
+}
+.bg{
+	background-color: #edeff2;
+	padding-bottom: 50px;
+	padding-top: 5px;
+}
+.Profile{
+	width: 32px;
+	height: 25px;
+}
+body{
+	background-color: #edeff2;
+}
+.logo-1{
+	width: 300px;
+	height: 220px;
+	margin-top: 80px;
+	margin-bottom: 40px;
+}
+.order{
+	list-style-type: none;
+	margin-top: 80px;
+}
+.line-1{
+	width: 1280px;
+	height: 1px;
+	background: white;
+	margin-top: 22px;
+	margin-bottom: 20px;
+}
+.pesan{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.bg-pesan{
+	border-radius: 10px;
+	padding: 9px 30px;
+}
+.form-control{
+	width: 100%;
+}
+.selectt{
+	width: 100%;
+}
+.btn{
+	width: 100%;
+	background-color: #6c757d;
+	margin-top: 25px;
+}
+.modal-title{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.modal-header{
+	display: inline-block;
+	text-align: center;
+	padding: 0px;
+}
+/*.modal-title{
+	
+}*/
