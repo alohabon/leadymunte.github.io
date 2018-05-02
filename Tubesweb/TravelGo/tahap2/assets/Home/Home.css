@@ -1,0 +1,184 @@
+.carousel-inner img {
+      width: 100%;
+      height: 700px;
+}
+.gambar{
+	width: 720px;
+	height: 480px;
+}
+a:hover{
+	color: #8e7037;
+	text-decoration: none;
+}
+ul li a {
+	color: white;
+	font-size: 20px;
+	font-weight: 500px;
+	font-family: sans-serif;
+	font-style: Roboto;
+	padding-bottom: 10px;
+	text-decoration: none;
+}
+.lupa{
+	text-decoration: none;
+	font-size: 12px;
+}
+div{
+	display: block;
+}
+.bg{
+	background-color: #edeff2;
+	padding-bottom: 50px;
+	padding-top: 5px;
+}
+.carousel-caption{
+	margin-bottom: 210px;
+}
+h1{
+	font-size: 80px;
+}
+p{
+	font-size: 25px;
+}
+.about{
+	background-color: white;
+	padding-bottom: 120px;
+	padding-top: 15px;
+	margin-bottom: 50px;
+}
+.desc{
+	font-size: 18px;
+	padding-bottom: 20px;
+}
+.btn{
+	font-weight: 500px
+	font-size: 12px;
+	border: none;
+	padding: 9px 20px;
+	color: white;
+	background-color: #8e7037;
+	text-decoration: none;
+}
+.logo{
+	width: 56px;
+	height: 50px;
+}
+.img-responsive{
+	max-width: 100%;
+	display: block;
+	height: auto;
+}
+.foto-1 {
+	margin-top: 20px;
+	width: 480px;
+	height: 320px;
+}
+.foto{
+	width: 70%;
+	height: 200px;
+	position: absolute;
+	top: 60%;
+}
+.img-1{
+	position: relative;
+	margin-left: 60px;
+}
+.Profile{
+	width: 32px;
+	height: 25px;
+}
+.dr{
+	padding: 20px 10px 5px 10px; 
+	width: 350px;
+}
+.outline{
+	height: 30px;
+	background: url(img/icon-our.png) center;
+	background-repeat: no-repeat; 
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.destination{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.box{
+	width: 100%;
+	background: #fbf4f5;
+	height: auto;
+}
+.line{
+	width: 180px;
+    height: 1px;
+    background: #8e7037;
+    margin-top: 22px;
+    margin-bottom: 45px;
+}
+.price{
+	color: #977b47;
+	font-size: 16px;
+	font-weight: 500px;
+	letter-spacing: 1px;
+	text-align: center;
+}
+.country{
+	font-size: 24px;
+	font-weight: 500px;
+	letter-spacing: 1px;
+	text-align: center;
+}
+div .sub-title{
+	background: white;
+}
+.img{
+	display: block;
+	width: 100%;	
+	height: 180px;
+}
+.logo-footer{
+	width: 100%;
+	height: 300px;
+}
+.logo-1{
+	width: 300px;
+	height: 220px;
+	margin-top: 80px;
+	margin-bottom: 40px;
+}
+.order {
+	list-style-type: none;
+	margin-top: 80px;
+}
+
+.line-1{
+	width: 1280px;
+	height: 1px;
+	background: white;
+	margin-top: 22px;
+	margin-bottom: 20px;
+}
+.fot{
+	color: white;
+	padding-bottom: 20px;
+}
+.pay{
+	margin-left: 20px;
+}
+.modal-title{
+	text-align: center;
+}
+.modal-header{
+	display: inline-block;
+	text-align: center;
+	padding: 0px;
+}
+.modal-title{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.garisfooter{
+	margin-top: 10px;
+	width: 400px;
+	height: 1px;
+	background:  #8e7037;
+}
