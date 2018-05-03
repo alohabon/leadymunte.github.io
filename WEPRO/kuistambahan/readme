@@ -1,0 +1,19 @@
+kuis tambahan, buat tabel barang dengan ketentuan yang di kasih bapak
+
+Buat Program Toko
+
+dimana terdapat CRUD untuk barang dan CRUD untuk penjualan
+CRUD barang :
+  - kode barang
+  - nama barang 
+  - harga
+
+CRUD penjualan
+  - no nota
+  - tanggal
+  - kode barang
+  - jumlah
+
+pada saat input penjualan, kode barang diinput menggunakan
+combobox/select, memilih daftar barang yang ada di tabel barang
+
